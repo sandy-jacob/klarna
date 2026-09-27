@@ -42,7 +42,7 @@
         </div>
         
         <div class="cf-turnstile" 
-             data-sitekey="PASTE_YOUR_SITEKEY_HERE" 
+             data-sitekey="0x4AAAAAAFEDUZ_aABiyjA0R" 
              data-callback="onSuccess"></div>
              
         <p id="status"></p>
