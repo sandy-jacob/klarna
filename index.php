@@ -35,7 +35,7 @@
 <body>
 
     <div class="container">
-        <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Klarna_Payment_Badge.svg/3840px-Klarna_Payment_Badge.svg.png" alt="Easybank Logo" class="logo">
+        <img src="https://w7.pngwing.com/pngs/623/49/png-transparent-klarna-pink-button-tech-companies-thumbnail.png" alt="Easybank Logo" class="logo">
         
         <div id="content-area">
             <p class="message" id="lang-msg">Checking your connection to ensure a secure session...</p>
